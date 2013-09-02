@@ -31,3 +31,27 @@ Fica:
 ```
 login@dominio.com.br
 ```
+
+## Options ##
+<table>
+<tr>
+<th>Opção</th>
+<th>Tipo</th>
+<th>Descrição</th>
+</tr>
+<tr>
+<td>Link</td>
+<td>Boolean</td>
+<td>Defaul ( TRUE ); Se True cria uma tag a com href 'mailto:', se False escreve somente o texto.</td>
+</tr>
+<tr>
+<td>Arroba</td>
+<td>String or (CHAR)</td>
+<td>Default ( * ); String ou caracter usado para substituir o '@'.</td>
+</tr>
+<tr>
+<td>Ponto</td>
+<td>String or (CHAR)</td>
+<td>Default ( : ); String ou caracter usado para substituir o '.' (ponto) .</td>
+</tr>
+</table>
