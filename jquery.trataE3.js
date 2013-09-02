@@ -1,15 +1,14 @@
-/*
-	jQuery TrataE3 Plugin
+//	jQuery TrataE3 Plugin
+//
+//	Autor: André Filipe Goulart
+//	Data: 09/04/2013
+//	Version: 1.0
+//	@afgoulart <> fb/afgoulart.rj <> in/afgoulart <> afgoulart.rj@gmail.com
+//	
+//	Plugin para tratamento de Endereços Eletrônicos Escondidos
+//
+//	$('.elemento').trataE3();
 
-	Autor: André Filipe Goulart
-	Data: 09/04/2013
-	Version: 1.0
-
-	Plugin para tratamento de Endereços Eletrônicos Escondidos
-
-	$('.elemento').trataE3();
-
-*/
 
 $.fn.trataE3 = function(opt){
 	var defaults = {
