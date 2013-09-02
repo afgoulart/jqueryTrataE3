@@ -4,6 +4,7 @@
 //	Data: 09/04/2013
 //	Version: 1.0
 //	@afgoulart <> fb/afgoulart.rj <> in/afgoulart <> afgoulart.rj@gmail.com
+//	Github Rep: https://github.com/afgoulart/jqueryTrataE3/
 //	
 //	Plugin para tratamento de Endereços Eletrônicos Escondidos
 //
